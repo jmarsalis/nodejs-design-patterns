@@ -1,2 +1,2 @@
 # nodejs-design-patterns
-Samples from the Node.js Design Patterns book
+Samples from Node.js Design Patterns Second Edition
